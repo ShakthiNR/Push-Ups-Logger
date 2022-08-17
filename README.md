@@ -2,7 +2,7 @@
 
 Link To Use - https://pushups-loggers-shakthi.herokuapp.com/
 
-     - Used to log the pushs
+     - Used to log the push-ups
      - CRUD operation is implemented using Flask Framework
      - With Login / Sigin system you can access the app
 
